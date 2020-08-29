@@ -1,3 +1,5 @@
+# Download an wav song and name it as "bgmuisc"
+
 def new_word():
     global word_x,word_y,text,chosen_word,press_word,speed
     word_x = random.randint(100,600)
